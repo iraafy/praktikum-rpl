@@ -17,3 +17,12 @@ body {
     margin-right: auto;
     margin-top: 10%;
 }
+
+#footer {
+    padding-top: 2%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #d9ecf2;
+}
