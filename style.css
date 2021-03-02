@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f6e5f5;
+    text-align: center;
+}
+
+#container {
+    color: darksalmon;
+}
+
+#pict {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
